@@ -1,0 +1,6 @@
+{
+  "version": "2.3.0",
+  "url": "TikTokGuard_2.3.0.zip",
+  "sha256": "a8d08437e6c94f164cb7318e66da35969bdb80fac0ae35a843a4f90bcd307a84",
+  "notes": "2.3.0: phản ứng ngay (nhìn nhanh 2s, đọc chữ 10s); hạn chế từ 24 giờ hoặc vĩnh viễn = tắt thông báo + ngừng live, KHÔNG bật lại, không tự đăng xuất (có ô bật đăng xuất)"
+}
